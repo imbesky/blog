@@ -5,7 +5,7 @@ excerpt: "농담"
 categories:
   - CodingTest
 tags:
-  - [자료구조알고리즘, CS개념]
+  - [codingtest, joke]
 
 permalink: /coding-test/question-error-joke/
 
@@ -16,7 +16,7 @@ date: 2023-05-04
 last_modified_at: 2023-10-18
 ---
 
-![img #1] (/assets/images/posts_img/question-error-joke/1.jpg)
-![img #2] (/assets/images/posts_img/question-error-joke/2.jpg)
+![img1] (/assets/images/question-error-joke/1.png)
+![img2] (/assets/images/question-error-joke/2.png)
 
 와하하
