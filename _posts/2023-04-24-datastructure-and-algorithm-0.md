@@ -23,4 +23,4 @@ last_modified_at: 2023-10-18
 ### [도서] 누구나 자료구조와 알고리즘
 [도서 자세히 보기] (https://www.yes24.com/Product/Goods/61941073)
 
-### [링크] 
+### [링크]
