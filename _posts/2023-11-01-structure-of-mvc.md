@@ -1,6 +1,6 @@
 ---
-title: "[우테코 프리코스] 2주차 회고"
-excerpt: "자동차 경주 게임을 만들다"
+title: "MVC 패턴의 구조"
+excerpt: "MVC 패턴 모델 2의 간략한 구조"
 
 categories:
   - Backend
@@ -13,7 +13,7 @@ toc: true
 toc_sticky: true
 
 date: 2023-11-01
-last_modified_at: 2023-11-09
+last_modified_at: 2023-11-14
 ---
 # MVC 패턴
 소프트웨어 디자인 패턴 중 하나로 Model View Controller로 이루어짐 
@@ -77,11 +77,3 @@ last_modified_at: 2023-11-09
 컨트롤러의 호출에 따라 실질적으로 요청을 수행
 - 비즈니스 로직과 트랜잭션 처리
 - 컨트롤러가 사용자의 요청에 맞는 처리를 결정하고 서비스에 그 내용을 넘기면 서비스가 실질적인 기능을 담당해 처리 
-
-## 데이터 이동
-### View -> Controller
-따로 뷰가 존재하는 것이 아니라 콘솔을 사용하기 때문에 콘솔에서 입력한 데이터를 컨트롤러에서 수용
-그 데이터를 모델의 형태에 맞게 컨트롤러에서 변형, 저장
-### Controller -> Service
-1. 데이터 전달만을 목적으로 하는 서비스 DTO 활용
-2. mapping 이용: 매퍼 클래스, 매핑 라이브러리 등
