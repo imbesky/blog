@@ -7,7 +7,7 @@ categories:
 tags:
   - [concept, java]
 
-permalink: /concept/final-vs-static/
+permalink: /concept/final-vs-static-vs-static-final/
 
 toc: true
 toc_sticky: true
