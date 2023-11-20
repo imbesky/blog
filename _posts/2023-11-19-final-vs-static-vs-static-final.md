@@ -50,6 +50,7 @@ last_modified_at: 2023-11-20
 ### static method 
 
 - can be called without creating the object of class
+
 ``` java
 public class Calculate{
   public static int plus(int number1, int number2){
